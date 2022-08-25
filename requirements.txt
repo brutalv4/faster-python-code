@@ -8,6 +8,5 @@ matplotlib==2.1.1
 memory_profiler==0.47
 numba==0.35.0
 numpy==1.12.1
-python==3.6.4
 scipy==1.0
 snakeviz==0.4.1
